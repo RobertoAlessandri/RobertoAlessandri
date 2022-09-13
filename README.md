@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -  Pronouns: He/Him
 -  Fun fact: I'm a DJ, an Electronic Music Producer in one hand and Audio Developer, AI/ML/DL enthusiastic on the other hand, but still haven't found a way to merge my artistic side with my engineer side
 
-Student @ (Politecnico di Milano)[https://www.polimi.it/]
+Student @ [Politecnico di Milano](https://www.polimi.it/)
 
 ## About Me
 - Programming Languages: 
