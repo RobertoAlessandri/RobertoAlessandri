@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Let's Get Started
+#### Let's Get Started
 -  I’m currently working on Deep Learning-based Pressure Matching algorithm for Personal Sound Zones
 -  I’m currently learning C++, TouchDesigner and Max/Msp
 -  I’m open to collaborate on creative projects
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 Student @ [Politecnico di Milano](https://www.polimi.it/)
 
-## About Me
+#### About Me
 - Programming Languages: 
   * Javascript (Vue, React, Node.js, p5.js), HTML, CSS) 
   * Python (NumPy, Librosa, Pandas, MatPlotLib, Scikit-Learn, TensorFlow/Keras, PyRoomAcoustics, open-cv)
