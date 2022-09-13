@@ -28,7 +28,7 @@ Student @ (Politecnico di Milano)[https://www.polimi.it/]
 
 ## About Me
 - Programming Languages: 
-  * Javascript (Vue, React, Node.js, p5.js), HTML, CSS, 
+  * Javascript (Vue, React, Node.js, p5.js), HTML, CSS) 
   * Python (NumPy, Librosa, Pandas, MatPlotLib, Scikit-Learn, TensorFlow/Keras, PyRoomAcoustics, open-cv)
   * MatLab (RIR-Generator)
   * C++ (JUCE, OpenFrameworks), Basic
