@@ -31,8 +31,8 @@ Student @ [Politecnico di Milano](https://www.polimi.it/)
   * Javascript (Vue, React, Node.js, p5.js), HTML, CSS
   * Python (NumPy, Librosa, Pandas, MatPlotLib, Scikit-Learn, TensorFlow/Keras, PyRoomAcoustics, open-cv)
   * MatLab (RIR-Generator)
-  * C++ (JUCE, OpenFrameworks), Basic
-  * C (nesC), Less than Basic
+  * C++ (JUCE, OpenFrameworks) [Basic]
+  * C (nesC) [Less than Basic]
   * C# (.NET)
   * Java (Processing)
   * SuperCollider
@@ -40,5 +40,15 @@ Student @ [Politecnico di Milano](https://www.polimi.it/)
   * Model-View-Controller (MVC)
 - DataBases:
   * MySQL
+- Protocolos:
+  * MIDI
+  * OSC
+  * DMX
+  * HTTP
+  * COAP
+  * MQTT
+  * 6LowPan
+  * ZigBee
+  * LoraWan
 
 
