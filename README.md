@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### About Me
 -  I’m currently working on Deep Learning-based Pressure Matching algorithm for Personal Sound Zones
--  I’m currently learning C++, TouchDesigner and Max/Msp
+-  I’m currently learning C++, TouchDesigner, Max/Msp and VR Developmentally 
 -  I’m open to collaborate on creative projects
 -  If you need help, you can ask me about DSP algorithms and  Music Information Retrieval techniques
 -  How to reach me: r.alessandri@outlook.com
