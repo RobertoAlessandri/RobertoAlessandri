@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 -  Fun fact: I'm a DJ, an Electronic Music Producer in one hand and Audio Developer, AI/ML/DL enthusiastic on the other hand, but still haven't found a way to merge my artistic side with my engineer side
 
 Student @ [Politecnico di Milano](https://www.polimi.it/)
+
 Prototyping Assistant @ [LWT3](www.lwt3.com)
 
 #### About My Skills
