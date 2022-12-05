@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 Student @ [Politecnico di Milano](https://www.polimi.it/)
 
-Prototyping Assistant @ [LWT3](www.lwt3.com)
+Prototyping Assistant @ [LWT3](https://www.lwt3.com/)
 
 #### About My Skills
 - Programming Languages: 
