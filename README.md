@@ -16,22 +16,22 @@ Here are some ideas to get you started:
 -->
 
 #### About Me
--  I’m currently working on Deep Learning-based Pressure Matching algorithm for Personal Sound Zones
--  I’m currently learning C++, TouchDesigner, Max/Msp and VR Developmentally 
+-  I'm currently working on a Deep learning-based method for RealTime Noise Suppression and Speech Enhancement.
+-  I’ve graduated in a Master of Science in Music and Acoustic Engineering @ [Politecnico di Milano](https://www.polimi.it/) with a thesis on a Deep Learning-based Method for Multi-Zone Sound Field Synthesis
+-  I’m currently learning C++, TouchDesigner, Max/Msp, VR Development and fundamentals about 5G technology
 -  I’m open to collaborate on creative projects
 -  If you need help, you can ask me about DSP algorithms and  Music Information Retrieval techniques
 -  How to reach me: r.alessandri@outlook.com
 -  Pronouns: He/Him
 -  Fun fact: I'm a DJ, an Electronic Music Producer in one hand and Audio Developer, AI/ML/DL enthusiastic on the other hand, but still haven't found a way to merge my artistic side with my engineer side
 
-Student @ [Politecnico di Milano](https://www.polimi.it/)
-
-Prototyping Assistant @ [LWT3](https://www.lwt3.com/)
+Former Prototyping Assistant @ [LWT3](https://www.lwt3.com/)
+Intern as Audio Signal Processing & AI for Audio Researcher @ [Nokia Bell Labs](https://www.bell-labs.com/)
 
 #### About My Skills
 - Programming Languages: 
   * Javascript (Vue, React, Node.js, p5.js), HTML, CSS
-  * Python (NumPy, Librosa, Pandas, MatPlotLib, Scikit-Learn, TensorFlow/Keras, PyRoomAcoustics, open-cv)
+  * Python (NumPy, Librosa, Pandas, MatPlotLib, Scikit-Learn, Scipy, TensorFlow/Keras, PyTorch, PyRoomAcoustics, open-cv)
   * MatLab (RIR-Generator)
   * C++ (JUCE, OpenFrameworks) [Basic]
   * C (nesC) [Less than Basic]
