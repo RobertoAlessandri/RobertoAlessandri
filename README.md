@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -  Pronouns: He/Him
 -  Fun fact: I'm a DJ, an Electronic Music Producer in one hand and Audio Developer, AI/ML/DL enthusiastic on the other hand, but still haven't found a way to merge my artistic side with my engineer side
 
-Former Prototyping Assistant @ [LWT3](https://www.lwt3.com/)
+Former Intern as Prototyping Assistant @ [LWT3](https://www.lwt3.com/)
 
-Intern as Audio Signal Processing & AI for Audio Researcher @ [Nokia Bell Labs](https://www.bell-labs.com/)
+Former Intern as Audio Signal Processing & AI for Audio Researcher @ [Nokia Bell Labs](https://www.bell-labs.com/)
 
 #### About My Skills
 - Programming Languages: 
