@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### About Me
--  I'm currently working on a Deep learning-based method for RealTime Noise Suppression and Speech Enhancement.
+-  I'm currently working on a Low-Complexity Deep learning-based method for RealTime Noise Suppression and Speech Enhancement.
 -  I’ve graduated in a Master of Science in Music and Acoustic Engineering @ [Politecnico di Milano](https://www.polimi.it/) with a thesis on a Deep Learning-based Method for Multi-Zone Sound Field Synthesis
 -  I’m currently learning C++, TouchDesigner, Max/Msp, VR Development and fundamentals about 5G technology
 -  I’m open to collaborate on creative projects
